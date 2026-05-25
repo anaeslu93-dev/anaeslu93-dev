@@ -15,7 +15,7 @@ Cuento con una sólida formación en análisis de datos, combinando un riguroso 
 
 ## 🚀 Proyectos de Ingeniería Destacados
 
-### ⚓ [Naval Fleet Control HMI & Big Data Architecture](https://github.com/anaeslu93-dev/naval-fleet-control-hmi)
+### ⚓ [Centro de Control Naval e Infraestructura Big Data](https://github.com/anaeslu93-dev/naval-fleet-control-hmi)
 Centro de control naval e infraestructura de datos masiva diseñada para el procesamiento e ingesta de **más de 1.1 millones de registros de geolocalización marítima (AIS)**.
 * **Core:** Migración de modelos planos estáticos (CSV) a una arquitectura empresarial de alta disponibilidad en PostgreSQL.
 * **DevOps & Cloud:** Automatización de infraestructura mediante **Docker Compose** e Integración Continua (CI/CD) con **GitHub Actions**.
@@ -27,7 +27,7 @@ Sistema de simulación funcional para una interfaz hombre-máquina (HMI) crític
 * **Calidad (QA):** Cobertura del 100% del motor lógico mediante pruebas de software automatizadas con PyTest.
 * **Tecnologías:** Python 3.11, PyQt6, Qt Style Sheets (QSS), PyTest, AWS Telemetry Mockup.
 
-### 🏢 Desarrollo de Proyectos Reales en Colaboración con Empresas (Univ. Loyola)
+### 🏢 Desarrollo de Proyectos Reales en Colaboración con Empresas
 Experiencia multidisciplinar integral enfocada en resolver problemas operativos complejos mediante la explotación de conjuntos de datos reales en **sectores de alta exigencia (Logística Portuaria, Industria Metalúrgica, Organismos Estadísticos Públicos, Entidades Deportivas, entre otros sectores relevantes)**:
 * **Metodología End-to-End:** Comprensión del problema, preparación y limpieza de datos, análisis exploratorio (EDA), modelado, extracción de conocimiento y evaluación de resultados.
 * **Modelado Avanzado:** Aplicación de técnicas de análisis de datos, *Data Mining* y *Machine Learning* adaptadas a los objetivos de negocio de cada organización.
